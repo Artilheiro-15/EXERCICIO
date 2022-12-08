@@ -1,9 +1,7 @@
 package enums;
 
-public class WorkerLevel {
-    
-    JUNIOR,
-    MID_LEVEL,
-    SENIOR;
-  }
-
+public enum WorkerLevel {
+  JUNIOR,
+  MID_LEVEL,
+  SENIOR;
+}
